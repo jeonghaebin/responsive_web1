@@ -1,0 +1,27 @@
+@media screen and (max-width:768px){
+    .navbar{
+        flex-direction: column;
+        align-items: flex-start;
+        height: auto;
+        padding: 8px 24px;
+    }
+
+    .navbar-menu{
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+
+    }
+
+    .navbar-menu li{
+        margin: 8px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .main-header{
+        margin-top: 230px;
+    }
+
+
+}
